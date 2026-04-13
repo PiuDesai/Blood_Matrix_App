@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩸 BloodMatrix - Smart Blood Donation & Management System
 
 BloodMatrix is a full-stack MERN application designed to bridge the gap between blood donors, patients, and blood banks. It uses geolocation, real-time notifications, and a gamified experience to encourage blood donation and manage requests efficiently.
@@ -63,3 +64,6 @@ npm run dev
 
 ## 📄 License
 This project is licensed under the ISC License.
+=======
+# Blood_Matrix_App
+>>>>>>> 573d2682029097cd33572786b09cba975d7aaddf
